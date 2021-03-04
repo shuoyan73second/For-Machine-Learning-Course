@@ -1,59 +1,11 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EDA探索性資料分析
+
+#EXPlORATORY DATA ANALYSIS
 
 df.head()
 df.info()
 df.describe()
-
-
-
-
-
+# DATA VISUALISATION
 plt.figure()
 sns.countplot(x='satellite', hue='party', data=df, palette='RdBu')
 plt.xticks([0,1], ['No', 'Yes'])
