@@ -7,7 +7,7 @@
 ##  學號:09370013
 
 
- ># Week1:Datacamp免費的課程(chapter 1) 日期:3/3/2021(Wed.)
+ ># Week1:Datacamp免費的課程(chapter 1:分類問題) 日期:3/3/2021(Wed.)
  >> ## 
  >> Homework:
 
