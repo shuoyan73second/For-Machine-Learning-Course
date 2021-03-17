@@ -8,12 +8,12 @@
 
 
  ># Week1:Datacamp免費的課程(chapter 1) 日期:3/3/2021(Wed.)
- >> ##
+ >> ## 
  >> Homework:
 
 
  > # Week2:莫煩python 機器學習課程 日期:3/10/2021(Wed.)
- >> ## scikit-learn教學
+ >> ## scikit-learn教學:https://mofanpy.com/tutorials/machine-learning/sklearn/
  >> Homework:
 
 
