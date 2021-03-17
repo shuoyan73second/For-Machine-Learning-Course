@@ -9,4 +9,9 @@
 
 
 >莫煩python 深度學習課程
->>TensorFlow教學
+
+
+
+
+>TensorFlow教學
+>>Tensorflow官網教學:https://www.tensorflow.org/tutorials/quickstart/beginner?hl=zh-tw
