@@ -28,3 +28,8 @@
 
 ># 莫煩python 深度學習課程
 >>
+
+
+
+>>如果打不開jupyter notebook:
+>>請使用：https://nbviewer.jupyter.org/
