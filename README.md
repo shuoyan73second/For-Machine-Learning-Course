@@ -22,6 +22,10 @@
  > # Week3:TensorFlow教學 日期:3/17/2021(Wed.)
  >> ## Tensorflow官網教學:https://www.tensorflow.org/tutorials/quickstart/beginner?hl=zh-tw
  >> Homework:
+ >> 
+
+ > # Week4:Recurrent Neural Network課程 日期：3/24/2021(Wed.)
+ >> Homework:
 
 
 
