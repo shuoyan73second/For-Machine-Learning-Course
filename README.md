@@ -9,7 +9,7 @@
 
  ># Week1:Datacamp免費的課程(chapter 1:分類問題) 日期:3/3/2021(Wed.)
   
- >> *Homework
+  * Homework:https://github.com/shuoyan73second/For-Machine-Learning-Course/tree/main/Week%20one
 
 
  > # Week2:莫煩python 機器學習課程 日期:3/10/2021(Wed.)
