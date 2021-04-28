@@ -19,20 +19,21 @@
 
 
 
- > # Week3:Convolution neural network教學 日期:3/17/2021(Wed.)
- * CNN:政大磨刻師課程：http://moocs.nccu.edu.tw/course/172/intro
- * Homework:https://github.com/shuoyan73second/For-Machine-Learning-Course/tree/main/Week3
+ > # Week3: neural network教學 日期:3/17/2021(Wed.)
+ * NN:政大磨刻師課程：http://moocs.nccu.edu.tw/course/172/intro
+   * Homework:https://github.com/shuoyan73second/For-Machine-Learning-Course/tree/main/Week3
  
 
- > # Week4:Recurrent Neural Network課程 日期：3/24/2021(Wed.)
- * RNN:政大磨刻師課程：http://moocs.nccu.edu.tw/course/172/intro
- * Homework:https://github.com/shuoyan73second/For-Machine-Learning-Course/tree/main/Week4
+ > # Week4:Convolution Neural Network課程 日期：3/24/2021(Wed.)
+ * CNN:政大磨刻師課程：http://moocs.nccu.edu.tw/course/172/intro
+   * Homework:https://github.com/shuoyan73second/For-Machine-Learning-Course/tree/main/Week4
 
 
 
 
 ># Week5:Kmeans 非監督式學習 
-* Homework:https://github.com/shuoyan73second/For-Machine-Learning-Course/tree/main/Week5
+* 線上參考資源：https://ithelp.ithome.com.tw/articles/10207518
+  * Homework:https://github.com/shuoyan73second/For-Machine-Learning-Course/tree/main/Week5
 
 
 
