@@ -40,7 +40,7 @@
   * Homework:  https://github.com/shuoyan73second/For-Machine-Learning-Course/tree/main/Kaggle_competition
 
 ># NLP 練習
-* NER,POS,WS 練習: 
+* NER,POS,WS 練習: https://github.com/shuoyan73second/For-Machine-Learning-Course/tree/main/NLP_Practice
   
   
 
