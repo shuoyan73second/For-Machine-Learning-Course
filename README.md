@@ -35,6 +35,10 @@
 * 線上參考資源：https://ithelp.ithome.com.tw/articles/10207518
   * Homework:https://github.com/shuoyan73second/For-Machine-Learning-Course/tree/main/Week5
 
+>#Kaggle competition
+* 比賽主題：https://www.kaggle.com/c/ghouls-goblins-and-ghosts-boo
+  * Homework:  
+
 
 
 >>如果打不開jupyter notebook:
