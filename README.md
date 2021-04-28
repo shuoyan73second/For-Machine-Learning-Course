@@ -8,30 +8,30 @@
 
 
  ># Week1:Datacamp免費的課程(chapter 1:分類問題) 日期:3/3/2021(Wed.)
- >> ## 
- >> Homework
+  
+ >> *Homework
 
 
  > # Week2:莫煩python 機器學習課程 日期:3/10/2021(Wed.)
  >> ## scikit-learn教學:https://mofanpy.com/tutorials/machine-learning/sklearn/
- >> Homework
+ >> *Homework
 
 
 
 
  > # Week3:Convolution neural network教學 日期:3/17/2021(Wed.)
  >> ## CNN
- >> Homework
+ >> *Homework
  >> 
 
  > # Week4:Recurrent Neural Network課程 日期：3/24/2021(Wed.)
- >> Homework
+ >> *Homework
 
 
 
 
 ># Week5:Kmeans 非監督式學習 
->>Homework
+>> *Homework
 
 
 
