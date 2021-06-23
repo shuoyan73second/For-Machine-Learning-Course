@@ -9,39 +9,38 @@
 
  ># Week1:Datacamp免費的課程(chapter 1:分類問題) 日期:3/3/2021(Wed.)
   
-  * Homework:https://github.com/shuoyan73second/For-Machine-Learning-Course/tree/main/Week%20one
+  * [Homework](https://github.com/shuoyan73second/For-Machine-Learning-Course/tree/main/Week%20one "link")
 
 
  > # Week2:莫煩python 機器學習課程 日期:3/10/2021(Wed.)
-  * scikit-learn教學:https://mofanpy.com/tutorials/machine-learning/sklearn/
-    * Homework:https://github.com/shuoyan73second/For-Machine-Learning-Course/tree/main/Week2
+  * scikit-learn教學:https://mofanpy.com/tutorials/machine-learning/sklearn
+    * [Homework](https://github.com/shuoyan73second/For-Machine-Learning-Course/tree/main/Week2 "link")
 
 
 
 
  > # Week3: neural network教學 日期:3/17/2021(Wed.)
  * NN:政大磨刻師課程：http://moocs.nccu.edu.tw/course/172/intro
-   * Homework:https://github.com/shuoyan73second/For-Machine-Learning-Course/tree/main/Week3
+   * [Homework](https://github.com/shuoyan73second/For-Machine-Learning-Course/tree/main/Week3 "link")
  
 
  > # Week4:Convolution Neural Network課程 日期：3/24/2021(Wed.)
  * CNN:政大磨刻師課程：http://moocs.nccu.edu.tw/course/172/intro
-   * Homework:https://github.com/shuoyan73second/For-Machine-Learning-Course/tree/main/Week4
-
+   * [Homework](https://github.com/shuoyan73second/For-Machine-Learning-Course/tree/main/Week4 "link")
 
 
 
 ># Week5:Kmeans 非監督式學習 
 * 線上參考資源：https://ithelp.ithome.com.tw/articles/10207518
-  * Homework:https://github.com/shuoyan73second/For-Machine-Learning-Course/tree/main/Week5
+  *  [Homework](https://github.com/shuoyan73second/For-Machine-Learning-Course/tree/main/Week5 "link")
 
 ># Kaggle competition
 * 比賽主題：https://www.kaggle.com/c/ghouls-goblins-and-ghosts-boo
-  * Homework:  https://github.com/shuoyan73second/For-Machine-Learning-Course/tree/main/Kaggle_competition
+  * [Homework](https://github.com/shuoyan73second/For-Machine-Learning-Course/tree/main/Kaggle_competition "link")
+ 
 
 ># NLP 練習
-* NER,POS,WS 練習: https://github.com/shuoyan73second/For-Machine-Learning-Course/tree/main/NLP_Practice
-  
+  * [NER,POS,WS 練習](https://github.com/shuoyan73second/For-Machine-Learning-Course/tree/main/NLP_Practice "link")
   
 
 
